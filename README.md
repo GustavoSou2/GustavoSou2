@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**GustavoSou2/GustavoSou2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Gustavo Souza
 
-Here are some ideas to get you started:
+#### Sobre mim 
+Tenho 18 anos, moro no interior de São Paulo, atualmente trabalhando na empresa [eKaizen Digital](https://www.gestaokaizen.com.br). Sou programador Front-end, tenho conhecimento em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### About me
+I'm 18 years old, live in the countryside of São Paulo, currently working in the company [eKaizen Digital](https://www.gestaokaizen.com.br). I'm a Front-end programmer, I have knowledge in:
+
+  - PHP
+  - Angular
+  - React
+  - NodeJs
+  - Git
+  - HTML
+  - CSS
+  - Javascript
+  - Mysql
+  - Firebase
+  - Typescript
+
