@@ -1,9 +1,7 @@
 
 Hi 👋, I'm
-# Gustavo de Souza
-[Meu Site]('https://www.gustavosouza.online/').
+# [Gustavo Souza](https://www.gustavosouza.online/).
 
----
 
 **Frontend Developer at** [eKaizen](https://web.ekaizen.digital/).
 
