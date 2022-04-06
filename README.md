@@ -1,8 +1,12 @@
 
 Hi 👋, I'm
 # Gustavo de Souza
+**My Website** [Gustavo Souza]('https://www.gustavosouza.online/')
+
+---
 
 **Frontend Developer at** [eKaizen](https://web.ekaizen.digital/).
+
 
 Things I like to do:
 
@@ -13,8 +17,6 @@ Things I like to do:
 - 👨‍🏫 Talk with other people
 
 About me:
-
-** My website ** [Gustavo Souza]('https://www.gustavosouza.online/')
 
 - 19y
 - 💼 I am currently working at [eKaizen](https://www.linkedin.com/company/e-kaizen/) as a frontend developer
