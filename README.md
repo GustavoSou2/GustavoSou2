@@ -1,5 +1,3 @@
-
-Hi 👋, I'm
 # [Gustavo Souza](https://www.gustavosouza.online/).
 
 
